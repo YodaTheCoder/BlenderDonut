@@ -9,3 +9,7 @@ Before denoise filter:
 
 After denoise filter:
 ![after denoise filter](donut-after-denoise.png "After denoise filter pass")
+
+End of Level 2, all the nodes!
+![final level 2](donut-final.png "Finished Level 2")
+
