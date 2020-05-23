@@ -16,3 +16,9 @@ End of Level 2, all the nodes!
 ##### Start of Level 3, empty glass cup and saucer.
 
 ![start level 3](empty-glass-cup-and-saucer.png "Start Level 3")
+
+##### End of Level 3, coffee with condensation
+
+![end level 3](coffee-with-condensation.png "End Level 3")
+
+Not included in repo is the [normal map](https://www.dropbox.com/s/9j6m709qmu4bfvz/WaterDropletsMixedBubbled001_NRM16_1K.tif?dl=0) for the condensation courtesy of [Blender Guru](https://www.blenderguru.com/) and [Poliigon](https://www.poliigon.com/)
